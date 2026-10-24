@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 model/
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+backup-20261015-181630/
